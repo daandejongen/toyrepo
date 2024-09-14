@@ -1,4 +1,3 @@
-| Version | Date | Title |
-| ------- | ---- | ----- |
-| v.1.0 | 14 Sep 2024 | test message |
-| `v0.0.0` | 14 Sep 2024 | Test |
+| Version | Date | Issue | Description |
+| --- | --- | --- | --- |
+| `v0.1.0` | 14 Sep 2024 | [#1](https://github.com/daandejongen/REPO_PATH/issues/1) | yes yes yes |
